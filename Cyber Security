@@ -1,0 +1,48 @@
+* Hashcat-open source password cracking tool.
+* John the Ripper- advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs.
+* Hydra(THC-Hydra)- It is fast,flexible and easy it is to gain.
+The above tools are used a common terminology called as Brute Force.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Brute Force:A brute force attack is a hacking method that uses trial and error to crack passwords, login credentials, and encryption keys. 
+            It is a simple yet reliable tactic for gaining unauthorized access to individual accounts and organizations’ systems and networks. 
+            The hacker tries multiple usernames and passwords, often using a computer to test a wide range of combinations, until they find the correct login information.
+* vulnerability:weakness for networks.
+* RAT: A RAT (remote access Trojan) is malware an attacker uses to gain full administrative privileges and remote control of a target computer.
+* Attacks: =>using someone's system/software without their permission.
+           =>both hardware/software attacks.
+* Port Scanning
+* Security & safe guarding the system
+=> physical control
+=> administrative control
+=> logical control
+* Cyber Security: securing the source/data.
+* Networking :A medium to connection.
+* TCP/UDP : => Protocols(set of rules).
+            => communicate with hardware and software
+            => TCP has 65535 ports(entry gate) and UDP has 65535 ports.
+* https : port 443 will run with lock symbol which is safe and secure.
+* http : port 80 with unsafe and secured platform.
+* HTTP/HTTPs - diff b/w
+* Block chain security
+* Exlpoit
+* SQL injection
+* Session Hijacking - without password and username we can access the account.
+* Internet Phising
+* DNS Poising
+* IP Address
+* Cloud 
+* Cryptography
+* APR poising
+* Spoofing
+* Hashing
+* Meta sploit
+* Back door
+* Hacking - gaining unauthorized access.
+* Ethical Hacking - with return concerns/permission.
+* Web Application penetration Testing.
+* Web Application VS Website VS Web Server VS Webpage.
+* Web Application - user interactions are more.
+* Website - collection of webpages.
+* Webpages - shows content,images,text etc....
+* Webserver - Browsing system or computer by the user.
+
