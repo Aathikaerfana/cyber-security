@@ -73,10 +73,28 @@ The above tools are used a common terminology called as Brute Force.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Authorization/Access Control(AC) : permission given to use some datas or files etc.....      
 * Confidentiality : 
-                => UAC(User Access Control) popup
+                => UAC(User Access Control) popup.
 * Integrity : Originality/Genuinity/Honest
                 => It is mostly used in https-443 port.They secure SSL certificate.
                 => Whenever you create website or application you have to use integrity to avoid script kiddies or malcious attackers.
 * Encryption : conversion of clear text to siffer text(human not understandable form).
 * Availability : best example 
                 => ATM Machine in the time of Demodilization.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Breach - The loss of control,comprises,unauthorized disclosure,unauthorized acquisition or any similar occurence where :
+            a person other than an authorized user access or potentially access personally identificable 
+* Event - Any observable occurence in a network or system.NIST SP 800-61 Rev 2.
+* Exploit - A particular attack.It is named this way because these attacks exploit system vulnerabilities.
+* Incident - An event that actually or potentially jeoparadizes the confidentiality,integrity and availability of an information system or the information the system.
+             A thing which affect CIA is called "Incident".
+* Intrusion - Security alert/event,or combination of events.
+* Threat - Any circumstances or event with the potential to damage a system or organizational operations.
+* vulnerability - Weakness in an information system.
+=======[If a threat with vulnerability it is called Risk]========
+* TOE - Target Of Evaluation
+* MySQL - 3306 port.
+* IPv4 - 32bits
+example : 192.168.1.1./24  - TOE { 0-9 } => Decimal to Binary
+conversion 10000000.10101000.00000001.00000001/24   => don't use 1st 24 bits use remaining bits
+* There are 256 possible IP Address : 192.168.1.0 to 192.168.1.255  => 256 IPs
+
