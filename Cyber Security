@@ -97,4 +97,4 @@ The above tools are used a common terminology called as Brute Force.
 example : 192.168.1.1./24  - TOE { 0-9 } => Decimal to Binary
 conversion 10000000.10101000.00000001.00000001/24   => don't use 1st 24 bits use remaining bits
 * There are 256 possible IP Address : 192.168.1.0 to 192.168.1.255  => 256 IPs
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
