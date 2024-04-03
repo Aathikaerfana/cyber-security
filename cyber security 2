@@ -36,5 +36,4 @@ now,save as "note.bat" with all files and save in desktop.
 * MAC address - Permanent Network address.
 * Hub is a repeater or an extention or use to coonect 
 * vulnerability in Hub : Data transfer to all the connected PC's.
-* PING uses ICMP Protocol : if you block ICMP protocol only ping will not work, by blocking TCP/UDP will not affect ping control
-* 
+* PING uses ICMP Protocol : if you block ICMP protocol only ping will not work, by blocking TCP/UDP will not affect ping control.
