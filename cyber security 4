@@ -32,3 +32,15 @@ decryption : cipher text -> clear text
      https website use Asymmetric encryption
      public key:given to others to share their encrypted to me
      private key:nan use pana matum than open pana mudiyum(decrypt pana mudiyum)
+---------------------------------------------------------HASH---------------------------------------------------------------------
+Get-FileHash ./kali-linux-2023.4-vmware-amd64.7z
+HashCalc - to calculate the hash value
+check whether the received hash value in powershell and hashcalc valur is same or not
+Hashing is an one way
+   => same length in hash value {hashing alogorithm}
+encrption is 2 way                 ----------------important [differ b/w hashing and encryption]--------------------
+   => differ length in the hash value {encryption alogorithm}
+-----------------------------------------------------------------------------------------------------------------------------------
+virustotal - important tool
+    => to check the file with anti-virus
+    => also check the url is correct or not
