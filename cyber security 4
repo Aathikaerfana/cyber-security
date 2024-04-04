@@ -1,0 +1,10 @@
+VPN VS Proxy
+VPN - Vpn will encrypt the Connection by additional layer of protection.
+    - The key to open the VPN is with the server and client.
+    - mask the IP address
+------------VPN----------------
+  Client <-------> Server
+------------VPN----------------
+     - It is tunnel b/w client and server
+     - Third person can't hear or know the conversion b/w them..
+proxy - 
