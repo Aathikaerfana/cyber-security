@@ -8,3 +8,27 @@ VPN - Vpn will encrypt the Connection by additional layer of protection.
      - It is tunnel b/w client and server
      - Third person can't hear or know the conversion b/w them..
 proxy - 
+ls in linux - dir(command prompt)
+  ls ls iruka folder matum thn cd la open pana mudiyum
+cd    - to open folder
+cd .. - to close the folder
+     ------------------VPN------------------------------------
+             client(192.168.1.2) <-------->server(192.168.1.3) 
+     -------------------VPN------------------------------------
+     10.10.10.2                               10.10.10.3
+
+
+encryption : clear text -> cipher text
+decryption : cipher text -> clear text
+----------------------------------------------------ENCRYPTION-------------------------------------------------------------------
+1.Symmetric : Single key  
+        not secure
+        sends clear text
+         one key is used to lock and unlock  
+         vulnerability: password must be shared so there is high risk
+2.Asymmetric : (Safest in the entire world)
+       -public key
+       -private key
+     https website use Asymmetric encryption
+     public key:given to others to share their encrypted to me
+     private key:nan use pana matum than open pana mudiyum(decrypt pana mudiyum)
