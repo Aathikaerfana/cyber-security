@@ -1,1 +1,30 @@
 ---------------------wireshark--------------------------
+request -------> response
+client  -------> server
+response contains status code.
+request contains http code.
+http methods:                                                       
+   => get      - getting the data
+   => put      - altering or updating the alrady defined data.
+   => post     - to send the data to server.
+   => option   - communication options for a given URL or server.
+   => delete   - 
+Response code:
+   =>1xx - Informational
+   =>2xx - OK
+   =>3xx - Redirection
+   =>4xx- Client side error
+   =>5xx- Server side error
+Testing types: 
+   =>Production Environment - live website/webApp.
+   =>Staging Enviornment   - excat copy of production environment .
+   =>QA Environment  - building environment like demo testing we can use and work for anything.
+Proxy - Client --------> Burp Proxy -------> Server
+Client------>proxy1---->proxy2------>proxy3----->proxy4------>proxy5------>proxy6----->server.
+Inside every proxy server there must be 6 differnet types of proxies available.
+ - DarkWeb like Duckduckgo,Tor,darkweb.onion are the platforms we can see the unknown websites.
+ - We can also access it using Bitcoin
+ - Bitcoin rate in dollars - $66,396.41 USD.mkce
+------------------------------------Burp Suite----------------------------------------------------------------
+Burp Suite - It is actually a proxy.
+8080 port no for burpsuite
