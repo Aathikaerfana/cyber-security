@@ -28,3 +28,37 @@ Inside every proxy server there must be 6 differnet types of proxies available.
 ------------------------------------Burp Suite----------------------------------------------------------------
 Burp Suite - It is actually a proxy.
 8080 port no for burpsuite
+* Session Hijacking
+    => using cookiee editor
+http://www.google.com/index.html
+http://www.google.com/directory1/directory2/filename.html
+
+webportal - http/https
+* TLD - Top Level Domain
+* Domain - google.com
+* Subdomain - domain with some other websites.
+   eg:google maps,mails etc....
+
+* Second level subdomain are also available.
+* linux website path 
+   =>ls /var/www/html
+* now we add a switch called "-l"
+   =>ls -l /var/www/html
+* linux - /var/www/html
+* windows - C://
+
+* HTTP/2 - HTTPS
+* HTTP/1.1 - HTTP
+
+* GET /v1/titles HTTP/2
+* Host: contile.services.mozilla.com
+    => mozilla.com  - domain
+    => services     - subdomain
+    => contile      - second level subdomain
+/ - index page 
+  => GET / HTTP/1.1
+* Username Enumeration - using phone number we can check whether it is logged with email or not.
+* WAF - Web Apllication Firewall + rate
+* seclist in github - webcontent - raft
+* Snipper attack - intruder => position => payload => paste (password,username)
+* Settings - Grep Extract => Add => select
