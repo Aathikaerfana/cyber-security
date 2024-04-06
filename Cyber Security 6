@@ -1,0 +1,12 @@
+* VA - Vulnerability Assessment 
+   => finding out the potential weakness that affect the CIA.
+* High priority
+  - Risk Matrix
+      => Impact
+      => Livelihood ( possibility)
+
+* 4 Steps in vulnerablity Assessment process: 
+      => Assest Discovery
+      => Vulnerability Scanning - (all IOT should scan & scan all 3rd party apps).
+      => Vulnerability assessment - (risk analysis & prioritize => vulnerability is directly connectes with threads then 1st gives high prioriity to that).
+      => Vulnerability remedition
