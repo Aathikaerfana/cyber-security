@@ -29,6 +29,36 @@
         => Regulations
 * SAST - Static Application Security Testing tool
         => use for secure coding
-*Vuuln
-         
-            
+* Vulnerability Assessment Methods
+-----------------------------------------------------------------------------------------------------------------------
+* Executive Summary - Abstract
+* Scope should mention the attacks what and all should be performed.
+* NDA
+------------------------------------------------------------------------------------------------------------------------
+* PT - Penetration Testing     
+    - Types of PT are: 
+          => Application
+          => Network
+          => Physical
+          => IOT/Mobile
+------------------------------------------------------------------------------------------------------------------------------
+* 5 phases of hacking :                            -----------important question------------
+     => Information gathering
+     => Scanning
+           - using CMS (website can be done without coding)
+     => Gaining access
+           - System hacking
+           - exploiting the vulnerability
+    => Maintaining the access
+           - Persistence
+    => Clearing Tracks
+           - removing all digital prints)
+---------------------------------------------------------------------------------------------------------------------------------
+* Process of PT:
+       => Information Gathering
+       => Threat Modeling
+       => Vulnerability Analysis
+-------------------------------------------------------------------------------------------------------------------------------------
+* Red Teamers - can clone your access in secs.
+* Internal Perneration testing : (White box testing - there is added information)     
+* External Peneration Testing : (there is no added information)
