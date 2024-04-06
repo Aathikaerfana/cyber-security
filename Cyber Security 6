@@ -62,3 +62,25 @@
 * Red Teamers - can clone your access in secs.
 * Internal Perneration testing : (White box testing - there is added information)     
 * External Peneration Testing : (there is no added information)
+--------------------------------------------Vulnerability Scanner Tools--------------------------------------------------------------
+* Zaproxy - An effective tool to find bugs and vulnerability.
+* HSTS - HTTP Strict Transport Security.
+* Tenable Nessus - Tool 
+---------------------------------------------OWASP-----------------------------------------------------------
+* OWASP top ten vulnerabilities : 
+   - learn all 10 vulnerabilities process along with  
+          => what is that ?
+          => How it is detected ?
+          => How it is prevented ?
+-----------------------tools for false positive vulnerability-----------------------
+* Nikto
+* WPScan
+------------------------------------------------------------------------------------------------------------------------------------
+* Static Testing - without deplying the code
+* dynamic Testing - with the deploying of code
+                - eg: Block box - testing
+------------------------------------------------SQL Injection--------------------------------------------------------------------------
+* Uses : 
+    - SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database.
+* HOW TO DETECT THE SQL INJECTION ?
+ Ans : With ' quote or " quote
