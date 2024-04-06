@@ -84,3 +84,18 @@
     - SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database.
 * HOW TO DETECT THE SQL INJECTION ?
  Ans : With ' quote or " quote
+* Authentication Vulnerability
+* Path Traversal / Directory Traversal - we can navigate to different directories
+       eg : ..//..//..//.../
+* pwd - print working directory (to check the current directory)
+* etc/passwd - every linux must have this.
+             - to read this use cat command.
+* vin.ini    - every windows must have this.
+* Absolute path - full directory is mentioned.(if it is in diff directory use this)
+      eg : home/desktop/fliename/pyhton.exe
+* Relative path - shortcut path (if it is in the same directory use this)
+      eg : burpsuite
+* to check the particular file is installed or not / where it is located - use " where "
+* Navigating the directory - directory traversal
+     eg   :  /var/www/images/123.png
+traversal : ..//..//images/123.png
