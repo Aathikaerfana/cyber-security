@@ -30,3 +30,8 @@ nc -lvnp  => net cat listen ver net port 8888
 * tcpview and process utilities => check whether our system is hacked or not.
 WEB SHELL : 
 * chaining vulnerability
+CROSS-SITE SCRIPTING : 
+  - Mod security byepass
+      => searching for recent payloads.
+cookiee stealer
+canary tokens
