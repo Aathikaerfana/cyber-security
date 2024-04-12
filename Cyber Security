@@ -25,7 +25,7 @@ The above tools are used a common terminology called as Brute Force.
 * https : port 443 will run with lock symbol which is safe and secure.
 * http : port 80 with unsafe and secured platform.
 * HTTP/HTTPs - diff b/w
-* Block chain security
+* Block chain security.
 * Exlpoit
 * SQL injection
 * Session Hijacking - without password and username we can access the account.
