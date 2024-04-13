@@ -53,13 +53,54 @@ Forbes publication for cyber security.
 * Nation-state-actors - one nation hack another nation data
 * Hactivist 
 * Cyber Terrorist
- ----------------------------------------------------interview question for SOC Analyst for defensive-------------------------------------------------
+ ----------------------------------------------------interview question -------------------------------------------------
 * IR Team - Incident Response Team 
           - Incident ----------> it will affect the CIA                      
    => NIST Cybersecurity Framework / standard
+     ---------> National Institute of Standards and Technology - very good framework for SOC Analyst(defensive)
    => Frameworks like : 
         * Identify
         * Project
         * Detect
         * Respond
         * Recover
+* How do you assess the risk ?
+    => X - Livelihood
+    => Y -  Impact
+    => then detect the level of risk (low,high,medium etc...) then give the report.
+* SAS Tool - Static Application Security Testing Tool.
+-----------------------------------------------------------NETWORKS---------------------------------------------------------------------------
+* Network Segmentation => Traffic can be restricted in or to segments based on location, along with where traffic can and cannot flow.
+* DLP - Data Loss Prevention
+      - It has some tool to protect our data.
+* IPS => Intrusion Prevention Systems.
+      => To identify malicious activity, collect information about this activity, report it and attempt to block or stop it. 
+      => To prevent  and take action.
+      => It is placed between Firewall and Router.
+* IDS => An Intrusion Detection System.
+      => It maintains network traffic looks for unusual activity and sends alerts when it occurs.
+      => 2 types :
+           * HIDS - Host based Intrusion Detection System.
+           * NIDS - Network based Intrusion Detection System.
+* NIDS => Network intrusion detection systems 
+       => They are set up at a planned point within the network to examine traffic from all devices on the network.
+* Firewall - It actually block the Traffic in transport layer.
+* NAT - It is also a firewall
+* Stateless connection - state of the packet doen't known.
+                       - If the RST Packet session ended.
+* Statefull connection - state of the packet known by firewall before the reset of flag.
+                       - If the RST Packet session running on.
+* VPN VS Proxy ? 
+* Email Security => the gateway for Email's.
+* Anti-virus or Anti-Malware Software
+* NAC - Network Access Control.
+* MDM - Mobile Device Management System
+* CASB - Cloud Access Security Broker
+* Asymentric and Symentric Encryption 
+* Cryptography Attacks :
+     => chosen plaintext attack
+     => chosen ciphertext attack
+* 3 types of security control :
+     => Physical
+     => Administrative
+     => Logical / technical
