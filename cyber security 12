@@ -8,11 +8,11 @@ Forbes publication for cyber security.
     => to check current cyber attacks around world.
     => good company for anti-virus software.
 * Black Hat,White Hat,Grey Hat  => Hackers type
-* Zero-day Vulnerability - still not found that vulnerability.
+* Zero-day Vulnerability - still not found that vulnerability / solution not found vulnerabilities.
 * CIA =>
-  C - Confidentiality  ----- tamper the data to use only by me like private and at the rest
-  I - Integrity   ---------  remoting the data or non-tampered the data that shows the originality.
-  A - Availability --------- Available for the users or for the organinzation.
+  C - Confidentiality  -----> tamper the data to use only by me like private and at the rest
+  I - Integrity   --------->  remoting the data or non-tampered the data that shows the originality.
+  A - Availability ---------> Available for the users or for the organinzation.
 * OSCP - Offensive Security Certificate Personnel
    => Download the template for project survey.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,4 +21,45 @@ Forbes publication for cyber security.
               -  you could surf public internet sites manually, query DNS, or use open-source intelligence (OSINT) gathering tools to automate the discovery of information.
    => Passive -  Obtain information without direct interaction with the target. 
               -  This means obtaining publicly available information using things such as: search engines, certificate information, social media postings, and even job postings.
-    
+* OSINT framework - OSINT framework focused on gathering information from free tools or resources.
+* Have I been pwned ? - To chech ur data is leaked in any dark weebsites or not.
+* Ahmia - To search the content in dark web like onion.
+* Maintaining the access - through torjan,back door etc...
+* Phising - cloning the website and tricking someone (or) Social Engineering attack.
+* Malware - Malicious Software - viruses,spyware,rootkit,Torjans,bots or botnets,worm.
+-------------------------------------------------------------------------------------------Interview Questions---------------------------------------------------------------------
+* Worm - automaticaly will attack the system or the entire company.
+* Virus - not automatically will attack.
+* CNC - Command and Control.
+* Trojan - Seems like legitimate website but actually a malicious software that attack our system.
+         - Always check the Integrity of software you'r downloading.
+* Ransomware - Ransomware is a type of malware that holds a victim’s data or device hostage, threatening to keep it locked—or worse—unless the victim pays a ransom to the attacker as Bitcoin.
+* DoS VS Ddos ? 
+    DoS - To down  the srvice 
+    Ddos - multiple people attacking or trafficing the same website.
+* Insider Threats : 
+        => Intentional
+        => UnIntentional
+* DNS Hijacking
+* Brute Force Attack - All possible permutatuions and Combinations.
+* Dictionary Attack - All the available words.
+* IoT Attack - like arduino,devices etc....
+* Main-In-The-Middle Attack - intermediate person will attack 
+* Backdoor Attack - whenever we need we can use it / it is like persistent.
+* Enumeration - estep by step process of xtracting username,passwords,etc...
+* SNMP - Simple Network Message Protocol.
+* Threat Actors - Cyber Actors may be legal or illegal 
+               - Bad actors / Adversary in technically other name for hackers.
+* Nation-state-actors - one nation hack another nation data
+* Hactivist 
+* Cyber Terrorist
+ ----------------------------------------------------interview question for SOC Analyst for defensive-------------------------------------------------
+* IR Team - Incident Response Team 
+          - Incident ----------> it will affect the CIA                      
+   => NIST Cybersecurity Framework / standard
+   => Frameworks like : 
+        * Identify
+        * Project
+        * Detect
+        * Respond
+        * Recover
