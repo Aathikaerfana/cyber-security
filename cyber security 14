@@ -17,3 +17,21 @@ Cloud Security Challenges :
    => Compliances concerns
    => Insiders Threats
    => Data Loss
+Regulatory Compliance in cloud Security  :
+   => GDPR  - General Data Protection Regulation  -----------> EU{Countries} all should follow this rule.
+   => G
+   => HIPAA - Health Insurance Portability and Accountability Act -----------> In US{Countries}they follow this medical rules and regulations otherwise they will not provide license.
+   => PCI DSS - Payment Card Industry Data Security Standard ----------> All payments around world were control by them.
+   => ISO 27001 - ISO/IEC 27001 is the international standard for information security for people. ------------> {Information Security Management System - ISMS}
+CMM LEVEL ----------------> {Capability Maturity Model (CMM) is a methodology used to develop, refine maturity of an organizations software development process.}
+   => Initial
+   => Managed
+   => Defined
+   => Quantitatively Managed
+   => Optimizing
+Future Treands in Cloud Security : 
+   => Adoption Zero Trust 
+           * DAC - Discrinary Access Control  ----------> most superior power according to your requirements they provide power
+           * RBAC - Role Based Access Control -----------> According to the role they provide powers and access
+           * MAC - Mandatory Access Control -------------> Mandatory access and power only will provide.
+               
