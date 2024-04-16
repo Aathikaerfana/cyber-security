@@ -69,3 +69,7 @@ Man In The Middle attack - tool in Kali is ettercap to hear the data b/w users a
                          - mostly in public WiFi places we can detect it.
                          - Risk ----> No https secure protocol here
 SE toolkit - Social Engineering tool in kali.
+Types of Vulnerability : 
+   => Hardware 
+   => Network  ------> Social
+   => 
