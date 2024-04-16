@@ -35,3 +35,37 @@ Future Treands in Cloud Security :
            * RBAC - Role Based Access Control -----------> According to the role they provide powers and access
            * MAC - Mandatory Access Control -------------> Mandatory access and power only will provide.
 Domain Controller / Active Directories --------> separate login for each person in a same system.
+CISCO WSA Features : 
+     WSA - Windows Subsystem for Android.
+     Data Security Enforcement
+           => DLP - Data Loss Prevention
+           => Native FTP Protection  -------> famous tool for ftp is "putty"
+WAF - Web Application Firewall
+    => Top WAF is "cloud fare".
+    => It is in layer 7 b/w client and server.
+    => Detecting and defending the dos and Ddos attack for rate limiting.
+Types of WAF : 
+    => Network
+    => Host
+    => Cloud
+Types of Attack : 
+   => Dos
+   => Ddos
+   => XSS - Cross-Site Scripting
+   => SQL Injection
+   => Man In The Middle
+   => Zero-day 
+List in WAF :
+   => Blocklist
+   => Whitelist
+SQL Injection : 
+   => using ' or " cotes we can find it.
+   => How to prevent it ?
+            ====>  utilizing parameterized database queries with bound, typed parameters and careful use of parameterized stored procedures in the database.
+Path Traversal : 
+    => Local file
+    => Remote file
+Man In The Middle attack - tool in Kali is ettercap to hear the data b/w users and application.
+                         - mostly in public WiFi places we can detect it.
+                         - Risk ----> No https secure protocol here
+SE toolkit - Social Engineering tool in kali.
