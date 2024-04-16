@@ -72,4 +72,38 @@ SE toolkit - Social Engineering tool in kali.
 Types of Vulnerability : 
    => Hardware 
    => Network  ------> Social
-   => 
+   => Software
+Standard Operating Procedure - SOP ------------> Time constraints.If you fail to do this you will fired.
+   => High
+   => Medium
+   => Low
+SIEM VS SOAR
+EDR VS XDR
+SLA - Service Level Agreement
+Splunk VS Wazuh
+What Is the MITRE ATT&CK Framework?
+    => MITRE ATT&CK -(Adversarial Tactics, Techniques, and Common Knowledge)
+    => ATT&CK is designed to help cybersecurity analysts and other stakeholders gain Cyber Threat Intelligence (CTI) insights 
+       for planning and designing cybersecurity programs and facilitate communication by providing a common cybersecurity reference vocabulary.
+    => MITRE ATT&CK uses the Tactics, Techniques, and Procedures (TTP) perspective to organize cybersecurity knowledge into a hierarchical framework.
+Playbook / Rulebook - A plan you develop that outlines the steps you will take in the event of a security incident.
+MITRE ATT&CK Tactics : 
+            => Reconnaissance (Enterprise, ICS)
+            => Resource Development (Enterprise, ICS)
+            => Initial Access
+            =>  Execution
+            =>  Persistence
+            =>  Privilege Escalation
+            =>  Defense Evasion
+            =>  Credential Access (Enterprise, Mobile)
+            =>  Discovery
+            =>  Lateral Movement
+            =>  Collection
+            =>  Command and Control
+            =>  Exfiltration (Enterprise, Mobile)
+            =>  Impact 
+            => Network Effects (Mobile-only)
+            =>  Network Service Effects (Mobile-only)
+            =>  Inhibit Response Function (ICS-only)
+            =>  Impair Process Control (ICS-only)  
+Offensive use only first 6 steps in Mitre Att&ck
