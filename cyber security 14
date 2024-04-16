@@ -31,7 +31,7 @@ CMM LEVEL ----------------> {Capability Maturity Model (CMM) is a methodology us
    => Optimizing
 Future Treands in Cloud Security : 
    => Adoption Zero Trust 
-           * DAC - Discrinary Access Control  ----------> most superior power according to your requirements they provide power
+           * DAC - Discrinary Access Control  ----------> most superior power according to your requirements they provide power.
            * RBAC - Role Based Access Control -----------> According to the role they provide powers and access
            * MAC - Mandatory Access Control -------------> Mandatory access and power only will provide.
-               
+Domain Controller / Active Directories --------> separate login for each person in a same system.
