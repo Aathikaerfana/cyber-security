@@ -1,0 +1,14 @@
+GPO => Group Policy Organization
+2 types of tools to edit the policy in GPO : 
+   => Group Policy Editor
+   => Group Policy Management tool
+to change the policy we have to go
+Run --> groupemc --> Computer configuration ---> changing the password ---> password has 1-45 days we have to change it --> next password length --> and it will change
+  --> enable to disable -->Apply and OK --> This is called Reverse encryption that means it converted as "hash" ie..we cannot reverse hash.
+how to edit a policy : 
+  => using GP Editor
+       Desktop --> hide policy --> remove recycle bin in that --> double tap --> disadble --> then signout --> and view the disabled recycle bin.
+       mmc --> file --> add and remove snap --> group policy --> browse the user --> and give the ploicy to the user --> apply --> OK.
+  gp update /force --> important cmd in AD.
+  
+  
