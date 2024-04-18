@@ -56,3 +56,19 @@ SECURITY AND AUTHENTICATION
 USER ACCOUNT AND GROUPS
 * Users
 * Groups
+* Kali cmds : 
+    => users
+    => groups
+    => cat /etc/passwd
+    => sudo useradd user1
+    => getnet passwd
+    => sudo useradd user2
+    => getnet passwd
+    => sudo useradd user3
+    => getnet passwd
+* resetting the password : sudo passwd user1
+* open a new group : sudo groupadd group
+    => group1
+    => group2
+    => group3
+*  to delete a group : sudo delgroup group1
