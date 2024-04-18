@@ -29,6 +29,13 @@ changing the wallpaper in the user account :
 TRUST RELATIONSHIP
 => Relationship b/w two domains.
 => Trouble shooting in Trust Relationship.
+6 types of Trust : 
+  => Tree-Root Trust
+  => Parent-Child Trust
+  => Shortcut Trust
+  => External Trust
+  => Forest Trust
+  => Realm Trust
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Domain and Domain controller
 * 2 types of DC : 
@@ -42,6 +49,10 @@ Domain and Domain controller
 SECURITY AND AUTHENTICATION
 * 2 Authentication protocols :
     => Kerberos
-    => NETNTLM
+    => NETNTLM - Net Lan Manager
 * Key Distribution Center - KDC
 * Ticket Granting Service - TGS
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+USER ACCOUNT AND GROUPS
+* Users
+* Groups
