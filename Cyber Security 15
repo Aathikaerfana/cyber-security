@@ -1,0 +1,11 @@
+CYBER KILL CHAIN
+  => Recon   ------> obtain information about the victim and the tactics for the attack
+  => Weaponization  ---------> Malware is engineered based on needs and intentions of the attack
+  => Delivery  -------> Covers how the 
+  => Exploitation   -------->  Breach the victim's vulnerability to execute the code and create schedule persistence
+  => Installation  --------------> Install malware and other tool to gain access to victim's system
+  => Command & Control ------> command channel for remote manipulation for victim's
+  => Actions and Objectives  ----------> with hands on keyboard access/intruder accomplish their original goals.
+DIAMOND MODEL
+Adversary --- another name of attacker
+Whiteshark file - opened in windows
