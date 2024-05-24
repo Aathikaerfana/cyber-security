@@ -17,6 +17,7 @@ cmd :
 - mkdir $SPLUNK_HOME
 
 then download splunk download for linux and copy that link
+wget -O splunkforwarder-9.2.1-78803f08aabb-linux-2.6-amd64.deb "https://download.splunk.com/products/universalforwarder/releases/9.2.1/linux/splunkforwarder-9.2.1-78803f08aabb-linux-2.6-amd64.deb"
 
 paste in the terminal
 
