@@ -33,7 +33,7 @@ then check status
 - ./splunk status
 Check it is runnning
 
-./splunk add forward-server 172.1.42.44:9997
+./splunk add forward-server 172.1.42.44:9997 (windows IP)
 
 then put username pass created in cmd
 
